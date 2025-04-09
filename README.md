@@ -21,9 +21,9 @@
 
 ### 🚀 Featured Projects
 
-* **[Face Recognition with Real-Time Database]([LINK_TO_REPO_1](https://github.com/Saketdtu/face-recognition-firebase.git))2:** Developed a real-time face recognition system using Python and Firebase, implementing efficient data synchronization.
-* **[Hospitality Analytics Dashboard]([LINK_TO_REPO_2](https://github.com/Saketdtu/hospitality-dashboard-powerbi.git)):** Created an interactive Power BI dashboard analyzing sales metrics (revenue, profit) using DAX and data modeling.
-* **[Uber Rides Data Analysis]([LINK_TO_REPO_3](https://github.com/Saketdtu/Uber-Rides-Data-Analysis.git)):** Performed data preprocessing and visualization on Uber ride data using Python (Pandas, Matplotlib) to uncover usage patterns.
+* **[Face Recognition with Real-Time Database](https://github.com/Saketdtu/face-recognition-firebase.git)2:** Developed a real-time face recognition system using Python and Firebase, implementing efficient data synchronization.
+* **[Hospitality Analytics Dashboard](https://github.com/Saketdtu/hospitality-dashboard-powerbi.git):** Created an interactive Power BI dashboard analyzing sales metrics (revenue, profit) using DAX and data modeling.
+* **[Uber Rides Data Analysis](https://github.com/Saketdtu/Uber-Rides-Data-Analysis.git):** Performed data preprocessing and visualization on Uber ride data using Python (Pandas, Matplotlib) to uncover usage patterns.
 
 *(Remember to replace `LINK_TO_REPO_X` with the actual links once you create the repositories)*
 
